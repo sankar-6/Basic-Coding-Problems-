@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Reverse a Number
+//Reverse a Number 
 public class DigitSum {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -16,3 +16,4 @@ public class DigitSum {
         sc.close();
     }
 }
+
